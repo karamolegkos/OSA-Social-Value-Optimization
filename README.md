@@ -28,3 +28,5 @@ Where:
 - 1000: Max valuation for each participant.
 - 50: Amount of Markets for each possibility step (positive value).
 - 0.02: The step for the possibility of each sample Market for each statistical test.
+
+*This project has a file as a report for a User and Technical Manual. You can get this by contacting me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</b></a>.*
